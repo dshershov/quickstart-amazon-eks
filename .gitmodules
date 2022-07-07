@@ -12,7 +12,7 @@
         branch = main
 [submodule "functions/source/HelmReleaseResource"]
 	path = functions/source/HelmReleaseResource
-	url = git@github.com:aws-quickstart/quickstart-helm-resource-provider.git
+	url = git@github.com:dshershov/quickstart-helm-resource-provider.git
         branch = main
 [submodule "submodules/quickstart-eks-snyk"]
 	path = submodules/quickstart-eks-snyk
